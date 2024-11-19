@@ -1,0 +1,29 @@
+# Chess Game with Stockfish Integration in JavaFX
+
+Welcome to the **Chess Game** repository! This project is a fully functional chess application developed using **JavaFX**. The game is designed with **Object-Oriented Programming (OOP)** principles and offers both **AI (Stockfish)** and **human vs. human** gameplay modes.
+
+---
+
+## Features
+
+- **Game Modes**:
+  - **Human vs. Human**: Play against another player locally.
+  - **Human vs. AI**: Challenge the Stockfish AI chess engine for a competitive experience.
+
+- **Interactive JavaFX UI**:
+  - Fully interactive chessboard with drag-and-drop piece movement.
+  - Real-time move validation and board updates.
+
+- **Stockfish Integration**:
+  - Utilizes the powerful Stockfish chess engine for AI gameplay.
+  - Configurable difficulty levels to match your skill.
+
+- **Core OOP Principles**:
+  - Modular design for scalability and maintainability.
+  - Clear separation of concerns between UI, game logic, and AI interaction.
+
+---
+
+
+
+# Created by Shahab Hassan and Daud bin Nasar
